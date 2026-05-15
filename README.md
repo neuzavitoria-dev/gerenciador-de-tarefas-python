@@ -1,4 +1,4 @@
-# gerenciador de tarefas
+# Gerenciador de Tarefas em Python
 
 Projeto desenvolvido em Python para gerenciamento de tarefas via terminal.
 
